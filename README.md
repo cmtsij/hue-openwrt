@@ -3,8 +3,9 @@
 This script fixed Hue light always use yellow color by default. 
 
 Pre-requirement:
-* curl
-* jshn and jshn.sh to parsse JSON (from libubox. Already include in OpenWrt)
+* curl: hook Hue API.
+* jshn and jshn.sh: parsse JSON 
+  (from libubox. Already include in OpenWrt)
 
 ## Implementation
 
